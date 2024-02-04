@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **tech enthusiasts for innovative projects! 🚀✨**
 
-- 👨‍💻 All of my projects are available at [sanjaykumar-codes.github.io](sanjaykumar-codes.github.io)
+- 👨‍💻 All of my projects are available at [sanjaykumar-codes.github.io](https://sanjaykumar-codes.github.io/)
 
 - 💬 Ask me anything about **the fascinating world of AI & Data Science! 🤖📊**
 
