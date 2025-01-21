@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sanjay Kumar M</h1>
 <h3 align="center">🚀 Full Stack Wizard & Data Maestro 📊 | Coding to the Rhythm of Fresh Vibes 🎶✨"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar-codes&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar-codes" /> </p>
